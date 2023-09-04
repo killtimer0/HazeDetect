@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hazedetect.MainActivity">
+    <item
+        android:id="@+id/action_select_server"
+        android:icon="@drawable/action_change_server"
+        android:orderInCategory="51"
+        android:title="@string/action_select_server"
+        app:showAsAction="always">
+    </item>
+</menu>

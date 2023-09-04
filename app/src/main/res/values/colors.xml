@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_text_color">#FFFFFFFF</color>
+    <color name="main_text_color_secondary">#FFDDDDDD</color>
+    <color name="main_card_background_color">#10FFFFFF</color>
+    <color name="weather_icon">@color/white</color>
+
+    <color name="aqi_level_1">#F5F5</color>
+    <color name="aqi_level_2">#FFF4</color>
+    <color name="aqi_level_3">#FF44</color>
+    <color name="aqi_level_4">#FF4F</color>
+
+    <color name="gauge_default_color">#E4E4</color>
+    <color name="gauge_dash_color">#FFFF</color>
+
+    <color name="chart_temp_max_color">#FF88</color>
+    <color name="chart_temp_min_color">#F88F</color>
+    <color name="chart_humidity_color">#F8CF</color>
+</resources>

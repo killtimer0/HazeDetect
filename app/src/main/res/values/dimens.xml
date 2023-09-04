@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="gauge_line_width">5dp</dimen>
+    <dimen name="gauge_dash_size">3dp</dimen>
+    <dimen name="gauge_area_radius">5dp</dimen>
+</resources>

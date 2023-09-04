@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">雾霾探测</string>
+    <string name="action_select_server">选择服务器</string>
+    <string name="title_activity_positioning">获取城市</string>
+    <string name="action_ok">确定</string>
+    <string name="action_cancel">取消</string>
+</resources>
